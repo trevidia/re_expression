@@ -1,0 +1,82 @@
+html><head></head><body>
+<h3> Info</h3>
+<table border="0">
+<tr><td>
+Date returned</td><td> Mon Jul 11 11:44:44 UTC 2022
+</td></tr>
+<tr><td>
+Date generated</td><td> Mon Jul 11 11:44:44 UTC 2022
+</td></tr>
+<tr><td>
+LC common version</td><td> SLS_RC
+</td></tr>
+<tr><td>
+LC clients version</td><td> SLS_RC
+</td></tr>
+<tr><td>
+Core version</td><td> SLS_RC
+</td></tr>
+<tr><td>
+Auditor version</td><td> SLS_RC
+</td></tr>
+<tr><td>
+Validator version</td><td> SLS_RC
+</td></tr>
+<tr><td>
+Cert CN=ClientSSL,OU=OUC.UK.MMD_1,O=OUC Uk uni,ST=Manchester,C=GB</td><td> OK: Sun Aug 14 11:09:19 UTC 2112
+</td></tr>
+<tr><td>
+Cert CN=Signing Certificate for OUC.US.SBS.Peachtree_2,OU=SSDP,O=OUC Uk uni,ST=Manchester,C=GB</td><td> OK: Thu Sep 08 16:16:05 UTC 2022
+</td></tr>
+<tr><td>
+Cert CN= Signing CA,OU=OUC.US.SBS.100_1,O=OUC Uk uni,ST=Manchester,C=GB</td><td> OK: Sat Apr 11 18:36:54 UTC 2116
+</td></tr>
+<tr><td>
+Cert CN= Signing CA,OU=OUC.UK.AD_1,O=OUC Uk uni,ST=Manchester,C=GB</td><td> OK: Thu Jun 30 13:42:15 UTC 2112
+</td></tr>
+<tr><td>
+Cert CN= Signing CA,OU=OUC.US.SBS.100_3,O=OUC Uk uni,ST=Manchester,C=GB</td><td> OK: Sun Apr 07 14:55:11 UTC 2120
+</td></tr>
+<tr><td>
+Cert CN= Signing CA,OU=OUC.DE.SBD.Collaborate_1,O=OUC Uk uni,ST=Manchester,C=GB</td><td> OK: Sun Mar 03 15:27:03 UTC 2115
+</td></tr>
+<tr><td>
+Cert CN=ClientSSL,OU=OUC.US.SBS.100_2,O=OUC Uk uni,ST=Manchester,C=GB</td><td> OK: Wed Jul 24 16:26:13 UTC 2022
+</td></tr>
+<tr><td>
+Cert CN=Signing Certificate for OUC.US.SBS.CE_2,OU=SSDP,O=OUC Uk uni,ST=Manchester,C=GB</td><td> OK: Thu Sep 08 16:15:44 UTC 2022
+</td></tr>
+<tr><td>
+Cert CN= Signing CA,OU=OUC.US.SBS.CRE_2,O=OUC Uk uni,ST=Manchester,C=GB</td><td> OK: Sun Feb 12 13:51:24 UTC 2113
+</td></tr>
+<tr><td>
+Cert CN= Signing CA,OU=OUC.UKI.ACC_1,O=OUC Uk uni,ST=Manchester,C=GB</td><td> OK: Sun Mar 30 14:48:09 UTC 2121
+</td></tr>
+<tr><td>
+Cert CN=Staging SSL CA,O=OUC Uk uni,ST=Manchester,C=GB</td><td> OK: Thu Jul 03 11:10:25 UTC 2110
+</td></tr>
+<tr><td>
+Cert CN=ClientSSL,OU=OUC.US.SBS.CRE_1,O=OUC Uk uni,ST=Manchester,C=GB</td><td> OK: Fri Jan 13 07:15:52 UTC 2113
+</td></tr>
+<tr><td>
+Cert CN=Signing Certificate for OUC.UKI.ACC_1,OU=SSDP,O=OUC Uk uni,ST=Manchester,C=GB</td><td> OK: Thu Sep 08 16:08:19 UTC 2022
+</td></tr>
+<tr><td>
+Cert CN=ClientSSL,OU=OUC.CA.SBS.ERP.OUC300_1,O=OUC Uk uni,ST=Manchester,C=GB</td><td> OK: Sat Apr 25 12:55:32 UTC 2116
+</td></tr>
+<tr><td>
+Cert CN=ClientSSL,OU=OUC.CA.SBS.ERP.OUC300_3,O=OUC Uk uni,ST=Manchester,C=GB</td><td> OK: Sun Feb 04 10:49:10 UTC 2120
+</td></tr>
+<tr><td>
+Cert CN=Signing Certificate for OUC.UKI.OnlinePayslips_1,OU=SSDP,O=OUC Uk uni,ST=Manchester,C=GB</td><td> OK: Thu Sep 08 16:15:13 UTC 2022
+</td></tr>
+<tr><td>
+Cert CN=Signing Certificate for OUC.UK.SSB.BankFeeds_1,OU=SSDP,O=OUC Uk uni,ST=Manchester,C=GB</td><td> OK: Thu Sep 08 16:15:26 UTC 2022
+</td></tr>
+<tr><td>
+Cert CN=ClientSSL,OU=OUC.CA.SBS.BusinessVision_1,O=OUC Uk uni,ST=Manchester,C=GB</td><td> OK: Wed Apr 15 05:22:30 UTC 2116
+</td></tr>
+<tr><td>
+Cert CN=Signing Certificate for OUC.US.SBS.Peachtree_3,OU=SSDP,O=OUC Uk uni,ST=Manchester,C=GB</td><td> OK: Thu Sep 08 16:08:47 UTC 2022
+</td></tr>
+<tr><td>

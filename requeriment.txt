@@ -1,0 +1,24 @@
+Hi Team I need your help with my university project. 
+
+I need your help to create a simple bash script (python script), 
+What the script gonna do,  is find  a file in a path find the Date generated (ie: Date generated</td><td> Mon Jul 11 11:44:44 UTC 2022)
+and from that date, find all lines with a date less than 30 days, so then copy the entire line all the entire line in a new file with a new name. 
+*****************
+for example: 
+************
+Start the file: 
+<tr><td>
+Date generated</td><td> Mon Jul 11 11:44:44 UTC 2022
+</td></tr>
+Cert CN=ClientSSL,OU=OUC.UK.MMD_1,O=OUC Uk uni,ST=Manchester,C=GB</td><td> OK: Sun Aug 10 11:09:19 UTC 2022
+<tr><td>
+Cert CN=Staging SSL CA,O=OUC Uk uni,ST=Manchester,C=GB</td><td> OK: Thu Jul 03 11:10:25 UTC 2110
+End the file. 
+new file: 
+You have the following line
+Cert CN=ClientSSL,OU=OUC.UK.MMD_1,O=OUC Uk uni,ST=Manchester,C=GB</td><td> OK: Sun Aug 10 11:09:19 UTC 2022
+
+in case there are multiples line that met the requeriment have to include all those line. 
+***************
+please find an example the file in order you play with. 
+Delivery time: 24 hours 
